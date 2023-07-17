@@ -1,3 +1,5 @@
+%Romberg Integration is a method for numerical integration. 
+
 function result = RombergIntegration(a, b)
     f = @(x) 1500*log(1.5*10^5/(1.5*10^5-2300*x))-9.81*x;
     I = zeros(4, 4);
