@@ -1,4 +1,4 @@
-%Anıl Berk Aykan,2445518
+%Rosenbrock's function is a well known function among mathmaticians. Its min. point can be found with steepest ascend method with this matlab code.
 
 
 clc;
